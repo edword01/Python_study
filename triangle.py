@@ -1,5 +1,5 @@
 #####################@ 杨辉三角  @###########################
-Generator、list 练习
+#Generator、list 练习
 def triangles():
     tempList,RowList=[1],[1]
     num,cnt=1,0
